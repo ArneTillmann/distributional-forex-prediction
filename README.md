@@ -33,5 +33,6 @@ distributional-forex-prediction/
 |
 |
 ├── strategy.ipynb # Skript containing the trading strategy
+|
 ├── .gitignore               # Git ignore file
 ├── README.md                # Project overview and instructions
