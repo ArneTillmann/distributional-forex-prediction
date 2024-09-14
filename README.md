@@ -27,15 +27,11 @@ distributional-forex-prediction/
 | 
 │
 ├── models.ipynb # Skript containing the implementation of the autogluon models and plotting functions
-│        
-│
-├── statistical_consulting # Containing the 
-│   
+│          
 │
 ├── strategy_analysis.ipynb # Skript evaluation of the trading strategy
 |
 |
 ├── strategy.ipynb # Skript containing the trading strategy
 ├── .gitignore               # Git ignore file
-├── LICENSE                  # License information
 ├── README.md                # Project overview and instructions
